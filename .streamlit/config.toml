@@ -1,0 +1,15 @@
+[theme]
+# Couleur d'arrière-plan principale
+backgroundColor = "#f8f9fa"
+
+# Couleur du texte
+textColor = "#212529"
+
+# Couleur d'arrière-plan secondaire
+secondaryBackgroundColor = "#e9ecef"
+
+# Couleur principale (utilisée pour les boutons, sliders, etc.)
+primaryColor = "#007bff"
+
+# Police d'écriture (optionnelle, valeurs possibles : "sans serif", "serif", "monospace")
+font = "sans serif"
