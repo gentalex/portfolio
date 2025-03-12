@@ -28,7 +28,7 @@ with st.sidebar:
 st.sidebar.markdown(
     """
     <div style="text-align: center; margin-bottom: 1rem;">
-        <img src="https://raw.githubusercontent.com/simunek-ludovic/streamlit-portfolio/refs/heads/main/images/ma_photo.jpg" 
+        <img src="https://github.com/gentalex/portfolio/blob/main/images/ma_photo.png" 
                 alt="Photo de profil" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;">
     </div>
     <p style="margin: 0; font-weight: bold; font-size: 14px;">
@@ -53,8 +53,8 @@ with st.sidebar.expander("Contactez moi"):
     st.markdown(""" 
     <p style='margin-bottom: 0;'>
     <img src="https://img.icons8.com/ios-glyphs/16/000000/resume.png" alt="resume" /> CV : 
-    <a href='https://github.com/simunek-ludovic/streamlit-portfolio/blob/main/docs/CV%20-%20SIMUNEK%20Ludovic.pdf' target='_blank'>Lire</a> | 
-    <a href='https://github.com/simunek-ludovic/streamlit-portfolio/raw/main/docs/CV%20-%20SIMUNEK%20Ludovic.pdf' download> Télécharger</a>
+    <a href='https://github.com/gentalex/portfolio/blob/main/docs/CV%20-%20GENTER%20ALEXANDRE.pdf' target='_blank'>Lire</a> | 
+    <a href='https://github.com/gentalex/portfolio/blob/main/docs/CV%20-%20GENTER%20ALEXANDRE.pdf' download> Télécharger</a>
     </p>
     """, unsafe_allow_html=True)
 
